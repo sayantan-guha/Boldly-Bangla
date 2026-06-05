@@ -1,0 +1,14 @@
+{
+  "name": "boldly-bangla",
+  "owner": {
+    "name": "Hoichoi",
+    "email": "sayantan.guha@hoichoi.tv"
+  },
+  "plugins": [
+    {
+      "name": "boldly-bangla",
+      "source": ".",
+      "description": "Bengali copywriting skill for Hoichoi — ad copy, captions, taglines, and OTT content in Bangla."
+    }
+  ]
+}
