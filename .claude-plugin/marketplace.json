@@ -14,11 +14,7 @@
         "name": "Sayantan Guha"
       },
       "category": "marketing",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/sayantan-guha/Boldly-Bangla",
-        "subdir": "."
-      }
+      "source": "."
     }
   ]
 }
